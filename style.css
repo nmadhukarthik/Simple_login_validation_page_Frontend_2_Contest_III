@@ -1,0 +1,50 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#success
+{
+    color: rgb(43, 219, 43);
+    margin-bottom: 20px;
+}
+
+
+.hide
+{
+    display: none; 
+}
+
+
+form
+{
+    line-height: 15px;
+    padding: 20px;
+}
+
+.inputArea
+{
+    padding: 5px;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.criteria
+{
+    color: red;
+    padding: 8px; 
+}
+
+button
+{
+    padding: 5px;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    /* background-color: 1px solid white; */
+
+}
